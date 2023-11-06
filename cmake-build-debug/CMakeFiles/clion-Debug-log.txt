@@ -1,4 +1,4 @@
-/home/olusola/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/olusola/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/olusola/Code/c++/to-do -B /home/olusola/Code/c++/to-do/cmake-build-debug
+/home/olusola/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/olusola/Code/c++/to-do -B /home/olusola/Code/c++/to-do/cmake-build-debug
 -- The C compiler identification is GNU 13.2.0
 -- The CXX compiler identification is GNU 13.2.0
 -- Detecting C compiler ABI info

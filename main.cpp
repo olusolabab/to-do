@@ -34,7 +34,7 @@ int main() {
     char inputOption;
     int inputId;
     string inputDescription;
-    string version = "0.2.0";
+    string version = "v0.2.0";
     list<TodoItem> todoItems;
     list<TodoItem>::iterator it;
 
